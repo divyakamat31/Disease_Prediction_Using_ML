@@ -56,7 +56,7 @@ The low correlation between models is the key. Just like how investments with lo
 2. The predictions (and therefore the errors) made by the individual trees need to have low correlations with each other.
 To know more about Random Forest algorithm and how it works, visit **[Random Forest](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)** page.
 ### 3. Naive Bayes
-![Naive Bayes](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/naive.jpeg)
+![Naive Bayes](https://github.com/divyakamat31/Disease_Prediction_Using_ML/blob/main/imgs/naive.jpeg)
 #### Principle of Naive Bayes Classifier
 A Naive Bayes classifier is a probabilistic machine learning model that’s used for classification task. The crux of the classifier is based on the Bayes theorem.
 #### Bayes Theorem
