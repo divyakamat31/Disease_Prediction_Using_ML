@@ -42,7 +42,7 @@ Types of decision trees are based on the type of target variable we have. It can
 
 To know more about decision tree algorithm and how it works, visit **[decision tree](https://dataaspirant.com/2017/01/30/how-decision-tree-algorithm-works/)** page.
 ### 2. Random Forest
-![RandomForest](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/random.jpeg)
+![RandomForest](https://github.com/divyakamat31/Disease_Prediction_Using_ML/blob/main/imgs/random.jpeg)
 #### Introduction
 A big part of machine learning is classification — we want to know what class (a.k.a. group) an observation belongs to. The ability to precisely classify observations is extremely valuable for various business applications like predicting whether a particular user will buy a product or forecasting whether a given loan will default or not.
 #### Random Forest Classifier
