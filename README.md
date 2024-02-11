@@ -75,5 +75,5 @@ This section will show the results from above section. It will show the predicte
 ###
 ![predicted-outcome](https://github.com/divyakamat31/Disease_Prediction_Using_ML/blob/main/imgs/gui-result.PNG)
 # Example
-![example]()
+![example](https://github.com/divyakamat31/Disease_Prediction_Using_ML/blob/main/imgs/gui-2.PNG)
 
