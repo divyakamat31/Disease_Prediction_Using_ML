@@ -11,3 +11,8 @@ While there is no executable available, so you can try **ML Model for disease Pr
 Steps to run:
 1. Clone this Repo
 2. Run with command python main.py.
+# Features
+![Main Screen]()
+###
+Above is the screenshot of the project.
+Now, we will see each section one by one,
