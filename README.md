@@ -29,7 +29,7 @@ In this section five fields are given to choose various symptoms.
 ###
 In this section three buttons are used to select the algorithm to be used in the prediction. Here, three different algorithms are used in order to have maximum accuracy and to make a judgement from prediction.
 ### 1. Decision Tree
-![decisiontree](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/decision.gif)
+![decisiontree](https://github.com/divyakamat31/Disease_Prediction_Using_ML/blob/main/imgs/decision.gif)
 #### Introduction
 Classification is a two-step process, learning step and prediction step, in machine learning. In the learning step, the model is developed based on given training data. In the prediction step, the model is used to predict the response for given data. Decision Tree is one of the easiest and popular classification algorithms to understand and interpret.
 #### Decision Tree Algorithm
