@@ -25,7 +25,7 @@ In this section five fields are given to choose various symptoms.
 ![Symptom Section](https://github.com/divyakamat31/Disease_Prediction_Using_ML/blob/main/imgs/gui-symptoms.PNG)
 ## Algorithm Section
 ### Example of GUI: 
-![algo section](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/gui-algo.PNG)
+![algo section](https://github.com/divyakamat31/Disease_Prediction_Using_ML/blob/main/imgs/gui-algo.PNG)
 ###
 In this section three buttons are used to select the algorithm to be used in the prediction. Here, three different algorithms are used in order to have maximum accuracy and to make a judgement from prediction.
 ### 1. Decision Tree
