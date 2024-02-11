@@ -1,4 +1,4 @@
-# ML-Model-for-Disease-Prediction
+# Disease_Prediction_Using_ML
 # Content
 1. [Introduction](#Introduction)
 2. [How to run](#How-to-run)
@@ -22,7 +22,7 @@ Now, we will see each section one by one,
 In this section five fields are given to choose various symptoms. 
 ### Example: 
 ###
-![Symptom Section](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/gui-symptoms.PNG)
+![Symptom Section](https://github.com/divyakamat31/Disease_Prediction_Using_ML/blob/main/imgs/gui-symptoms.PNG)
 ## Algorithm Section
 ### Example of GUI: 
 ![algo section](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/gui-algo.PNG)
