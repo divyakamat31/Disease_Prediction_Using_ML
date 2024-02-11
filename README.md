@@ -60,7 +60,7 @@ To know more about Random Forest algorithm and how it works, visit **[Random For
 #### Principle of Naive Bayes Classifier
 A Naive Bayes classifier is a probabilistic machine learning model that’s used for classification task. The crux of the classifier is based on the Bayes theorem.
 #### Bayes Theorem
-![formula](https://github.com/N-NeelPatel/ML-Model-for-Disease-Prediction/blob/master/imgs/bayes.png)
+![formula](https://github.com/divyakamat31/Disease_Prediction_Using_ML/blob/main/imgs/bayes.png)
 ####
 Using Bayes theorem, we can find the probability of A happening, given that B has occurred. Here, B is the evidence and A is the hypothesis. The assumption made here is that the predictors/features are independent. That is presence of one particular feature does not affect the other. Hence it is called naive.
 #### Conclusion
